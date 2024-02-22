@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Advanced Flutter
-- 💬 Ask me anything about Flutter, Firebase, RestApi's, AppStore
-- 🌱 I just graduated and already have professional full time 3 year experince in Flutter Mobile Application
+- 💬 Ask me anything about Flutter, Firebase, RESTApi's, AppStore
+- 🌱 I  professional full time 1 year experience in Flutter Mobile Application
 - 📫 How to reach me: maryum.r@gmail.com
  
 
