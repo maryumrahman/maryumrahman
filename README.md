@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Advanced Flutter
 - 💬 Ask me anything about Flutter, Firebase, RESTApi's, AppStore
-- 🌱 I  professional full time 1 year experience in Flutter Mobile Application
+- 🌱 I have professional full time 1 year experience in Flutter Mobile Application
 - 📫 How to reach me: maryum.r@gmail.com
  
 
